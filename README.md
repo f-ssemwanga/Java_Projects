@@ -1,6 +1,6 @@
 # Java_Projects
 This repo showcases some of my Java assignments towards my masters degree
-##Assignment 1 - Details
+## Assignment 1 - Football Club Scenario
 ### II.	Assessment Scenario
 The Football Club needs an application to select 10 players according to their playing position on the field and to produce various reports. The following players’ details, such as their first and last names, agility and power test (APT) and strength and endurance test (SET) scores, position on the field (defender, midfielder, attacker), and the national association (England, Northern Ireland, Scotland or Wales) to which they currently belong, are entered by the Club Admin/User. The sample data is provided in Table 1. The system should calculate their AVG (average score of APT and SET) and should select players based on Table 1.
 ##### Table 1: Sample players’ data.
