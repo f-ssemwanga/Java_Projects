@@ -362,14 +362,14 @@ class Player {
                     break;
             }
         }
-        // stroing information in Player object then adding into the list
+        // storing information in Player object then adding into the list
         Player player = new Player(firstName, lastName, apt, set, position, association);
         playerList.add(player);
 
         System.out.println("Player added successfully!");
     }
 
-    // This method is used to fillter out the team of your choice on the basis of
+    // This method is used to filter out the team of your choice on the basis of
     // SET values
     public static void selectTeam() {
         // first we check if the original list is empty we will return right from here
